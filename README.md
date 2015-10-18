@@ -1,2 +1,3 @@
-# www
-Home and public website for BigLedger
+# BigLedger Website
+
+* [GH Pages](https://github.com/bigledger/www/tree/gh-pages)
