@@ -4,6 +4,6 @@ Welcome to the BigLedger Project Homepage
 #Contributing to the BigLedger Project
 Please fill up the following forms, and send it to account@bigledger.com.
 * For Corporate contributors
-  https://github.com/bigledger/www/wiki/Corporate-Contributor-License-Agreement
+  [Corporate Contributor License](legal/Corporate-Contributor-License-Agreement.md)
 * For Individual contributors
-  https://github.com/bigledger/www/wiki/Individual-Contributor-License-Agreement
+  [Individual Contributor License](legal/Individual-Contributor-License-Agreement.md)
