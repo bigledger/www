@@ -2,5 +2,5 @@
 Home and public website for BigLedger
 
 testing
-[Projects](projects/Home)
+[Projects](projects/Home.md)
 
